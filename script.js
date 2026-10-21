@@ -1,5 +1,5 @@
 // 1. plih tombol berdasar ID nya di HTML
-const tombolSapa = document.getElementById('sapaButton')
+const tombolSapa = document.getElementById('sapaButton');
 
 //memberikan perintah ketika tombol di klik tambahkan  
 tombolSapa.addEventListiner('click', function() {

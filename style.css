@@ -5,7 +5,7 @@ body {
 }
 
 .kartu-profil {
-    width: 30px;
+    width: 300px;
     margin: 50px auto; /*jarak atas bawah kontainer auto menengahkan kiri.kanan */
     padding: 20px;
     background-color: white;
@@ -14,7 +14,7 @@ body {
 }
 
 .kartu-profil img {
-    widht: 150px;
+    widht: 50px;
     border-radius: 50%;
 }
 .kartu-profil {

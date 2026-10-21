@@ -1,11 +1,11 @@
 body {
     background-color: #a6cf85; /* warna matcha i think */
-    font-family : Arial, sans-serif; /* jenis huruf yang mudah dibaca */ 
+    font-family: Arial, sans-serif; /* jenis huruf yang mudah dibaca */ 
     color: #191970 /* warna teks utama  */
 }
 
 .kartu-profil {
-    width: 300px;
+    width: 50px;
     margin: 50px auto; /*jarak atas bawah kontainer auto menengahkan kiri.kanan */
     padding: 20px;
     background-color: white;
@@ -14,9 +14,10 @@ body {
 }
 
 .kartu-profil img {
-    widht: 50px;
+    widht: 300px;
     border-radius: 50%;
 }
+
 .kartu-profil {
     text-align: center; /*rata tengah semua teks didalam kartu */
 }
